@@ -13,7 +13,6 @@ This is a complete functional quiz app that works on both Android and iOS device
 
 ### Quiz App Final UI
 
-Link: https://www.youtube.com/watch?v=Nhy0VWAMsFU
-Prohress time: 21:42 - Speed .25
+Fonte: https://www.youtube.com/watch?v=Nhy0VWAMsFU
 
 <!-- ![Preview](/gif.gif) -->
